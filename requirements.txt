@@ -1,6 +1,6 @@
 joblib
 scikit-learn
-sklearn
+
 matplotlib
 numpy
 pandas
